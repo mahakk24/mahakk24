@@ -17,10 +17,9 @@
 ### 💼 Contact
 
 - 📍 Location: Delhi, India  
-- 📫 Email: [ayushh.code@gmail.com](mailto:ayushh.code@gmail.com)
-- 💼 LinkedIn: [ayush-saxena-293562257](https://www.linkedin.com/in/ayush-saxena-293562257)
-- 🐙 GitHub: [Ayushcode10](https://github.com/Ayushcode10)  
-- 🐦 Twitter/X: [brokennbadd](https://x.com/brokennbadd)
+- 📫 Email: [mahakprajapati24@gmail.com](mailto:mahakprajapati24@gmail.com)
+- 💼 LinkedIn: [Mahak Prajapati]([https://www.linkedin.com/in/mahak-prajapati-9b72a7331/])
+
 
 ---
 
