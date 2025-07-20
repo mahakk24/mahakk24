@@ -73,8 +73,8 @@
 
 ### 🧠 Currently Exploring
 
-- Deep Learning 🔬
-- DevOps basics (Docker & GitHub Actions) ⚙️
+- Machine Learning Skills📊
+- Data Science📈 
 - Open Source Projects 💡
 
 ---
