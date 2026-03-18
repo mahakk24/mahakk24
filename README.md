@@ -11,13 +11,19 @@
 🤝 Open to collaborations on backend / data-driven projects
 
 
-🚀 Featured Project
+🚀 Featured Projects
+AutoLedger — Real-time Financial Intelligence for Startups
+
+Automates bookkeeping by classifying transactions, detecting anomalies, and forecasting cash flow — surfaced through a live React dashboard.
+
+ModuleWhat it does🧾 Transaction ingestionAsync FastAPI + PostgreSQL pipeline with CSV parsing🤖 ML classifierScikit-learn + TF-IDF categorises transactions automatically🚨 Anomaly detectionIsolation Forest flags unusual spending in real time📈 Cash flow forecastProphet / ARIMA time-series predictions⚡ Live dashboardReact + Recharts + WebSocket feed, Dockerised with CI/CD
+Stack: Python · FastAPI · PostgreSQL · Scikit-learn · Prophet · Celery · Redis · React · TypeScript · Docker
+
 Smart Feedback Summarizer
 
-An NLP-powered tool that aggregates and summarizes user feedback using Python.
+NLP-powered tool that aggregates and summarizes user feedback.
 Stack: Python · NLP · Pandas · Scikit-learn
 
-More projects coming soon — currently building a data pipeline project and a REST API.
 
 🛠️ Skills & Tools
 Languages
