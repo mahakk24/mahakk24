@@ -10,7 +10,7 @@ I love turning messy data into insights and ideas into scalable systems.<br/>
 
 <h2>🧑‍💻 About Me</h2>
 
-- 🎓 **Final-year B.Tech** in Computer Science *(graduating 2025)*
+- 🎓 **Final-year B.Tech** in Computer Science *(graduating 2026)*
 - 🔬 Building **ML pipelines** and exploring data science workflows
 - 🛠️ Working with **Python, FastAPI & SQL** on backend projects
 - 📈 Practicing **DSA daily** on LeetCode
