@@ -3,7 +3,7 @@
 <p align="center">
 🚀 Final-year B.Tech CS student from <strong>Delhi, India</strong> — building robust backends & diving deep into data science.<br/>
 I love turning messy data into insights and ideas into scalable systems.<br/>
-<em>Currently seeking SWE / Data Science roles for 2025.</em>
+<em>Currently seeking SWE / Data Science roles .</em>
 </p>
 
 ---
